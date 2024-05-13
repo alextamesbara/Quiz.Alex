@@ -1,0 +1,20 @@
+html{
+
+    background-color: white;
+}
+
+main{
+
+    width: 100%;
+    height: 400px;
+    padding: 25px 50px 10px 50px;
+    border: 1px solid black;
+    border: dashed black;
+
+}
+
+.primero{ 
+     width: 30%;
+     height: 80PX;
+    border: 1px solid red;
+    }
